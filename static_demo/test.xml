@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
+<series>
+	<title>Name of comic book</title>
+	<title_kan>おんよみ UTF friendly</title_kan>
+	<akiID>123</akiID>
+	<muID>321</muID>
+	<muRate>1.3</muRate>
+	<malID>654</malID>
+	<malRate>4.5</malRate>
+	<type>Manga/Comic/Manhua/etc...</type>
+	<status>Publishing</status>
+	<AOrating>True</AOrating>
+	<date>
+		<start>2010</start>
+		<end>31.12.2016</end>
+	</date>
+	<volumes>13</volumes>
+	<authors>
+		<name role="art">John Doe</name>
+		<name role="story">Doe Joan</name>
+	</authors>
+	<tags>
+		<tag>Action</tag>
+		<tag>Fantasy</tag>
+		<tag>Sci-fi</tag>
+		<tag>Drama</tag>
+	</tags>
+	<desc>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</desc>
+	<folder>some_folder(name)</folder>
+	<pic>cover.png</pic>
+	<files>
+		<file size="30MB" ext="zip" vol="1">Filename_v001</file>
+		<file size="60MB" ext="zip" vol="2">Filename_v002</file>
+		<file size="20MB" vol="3">Filename_v003</file>
+	</files>
+</series>
